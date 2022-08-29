@@ -2,7 +2,6 @@
 
 - 👨‍🎓 Atualmente estou me graduando em Análise de Sistemas pela Uniasselvi e fazendo os cursos paralelamente do Dio.me, estou disponível para o que precisar!
 - Email: murilloaugustoe081@gmail.com
-- Phone: (13) 996619306
 
 <div align="center">
   <a href="https://github.com/XRow08">
