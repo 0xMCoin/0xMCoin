@@ -1,7 +1,7 @@
 ## Opaa, eu sou o Murillo! Tudo bem??
 
 - 👨‍🎓 Atualmente estou me graduando em Análise de Sistemas pela Uniasselvi e fazendo os cursos paralelamente do Dio.me, estou disponível para o que precisar!
-- Email: murilloaugustoe081@gmail.com
+- Email: xr.encomendas@gmail.com
 
 <div align="center">
   <a href="https://github.com/XRow08">
