@@ -1,6 +1,5 @@
-## Opaa, eu sou o Murillo! Tudo bem??
+## Olá, somos a XR Sistemas!
 
-- 👨‍🎓 Atualmente estou me graduando em Análise de Sistemas pela Uniasselvi e fazendo os cursos paralelamente do Dio.me, estou disponível para o que precisar!
 - Email: xr.encomendas@gmail.com
 
 <div align="center">
