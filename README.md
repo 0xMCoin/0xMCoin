@@ -1,6 +1,8 @@
 ## Olá, somos a XR Sistemas!
 
-- Email: xr.encomendas@gmail.com
+- Email: xr.sistemas@xrsistemas.com.br
+- Site: www.xrsistemas.com.br
+- Phone: (13) 997008527
 
 <div align="center">
   <a href="https://github.com/XRow08">
