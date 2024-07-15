@@ -4,7 +4,7 @@
   <i>I am a developer with experience in solving problems in the universe. I am always seeking new challenges and opportunities to create solutions.</i>
   <br><br>
   <div align="center">
-  <img src="https://github.com/EduardoManczenko/EduardoManczenko/blob/main/images/ether-reach-the-ether.gif" width="230px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZrenBwOXVtejN2Z291b24zYXNmZ2ljOHF0cGY4cXAwZmtobm5rNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0BwzuxgF99stQ7iILo/giphy.gif" width="230px">
   </div>
   <br>
 </p>
@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" height="30" alt="axios logo"  />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react native logo"  />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo"  />
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt="express logo"  />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" alt="linux logo"  />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30" alt="npm logo"  />
@@ -50,8 +49,8 @@
 <br>
 <h2>📊 GitHub Statistics 📊</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=XRow08&show_icons=true&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRow08&layout=donut&theme=vision-friendly-dark" width="317.5">
+<img src="https://github-readme-stats.vercel.app/api?username=XRow08&show_icons=true&theme=transparent" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRow08&layout=donut&theme=transparent" width="317.5">
 </div>
 <h2>📫 How to contact me 📫</h2>
   <a href="https://www.linkedin.com/in/murillo-augusto/" target="_blank"  ><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
