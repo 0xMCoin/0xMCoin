@@ -49,11 +49,11 @@
 <br>
 <h2>📊 GitHub Statistics 📊</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=XRow08&show_icons=true&theme=transparent" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRow08&layout=donut&theme=transparent" width="317.5">
+<img src="https://github-readme-stats.vercel.app/api?username=0xMCoin&show_icons=true&theme=transparent" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMCoin&layout=donut&theme=transparent" width="317.5">
 </div>
 <h2>📫 How to contact me 📫</h2>
   <a href="https://www.linkedin.com/in/murillo-augusto/" target="_blank"  ><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-  <a href = "mailto:murilloaugustoe081@gmail.com" ><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:0xm.coin@gmail.com" ><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/dhnFNdxn" target="_blank"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
